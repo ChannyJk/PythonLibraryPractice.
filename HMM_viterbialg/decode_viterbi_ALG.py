@@ -57,7 +57,6 @@ if kv[0][1] > kv[1][1]:
 else:
     t.write('The Hidden State Path is : {0}'.format(kv[1][0]))
 
-
 re_s.close()
 re_t.close()
 f.close()
